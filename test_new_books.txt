@@ -1,0 +1,4 @@
+9780000000006,Pattern Recognition,William Gibson,2003
+9780000000007,Diaspora,Greg Egan,1997
+9780000000008,Permutation City,Greg Egan,1994
+9780000000005,Ringworld,Larry Niven,1970

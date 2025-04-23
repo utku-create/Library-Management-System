@@ -1,0 +1,35 @@
+9780061052617,The Lion the Witch and the Wardrobe,C.S. Lewis,1950
+9780061054884,Ender's Game,Orson Scott Card,1985
+9780061120084,Brave New World,Aldous Huxley,1932
+9780062316097,Red Queen,Victoria Aveyard,2015
+9780062562043,2001 A Space Odyssey,Arthur C. Clarke,1968
+9780062872045,Gideon the Ninth,Tamsyn Muir,2019
+9780143128540,The Power,Naomi Alderman,2016
+9780316015844,Foundation,Isaac Asimov,1951
+9780316066525,The Maze Runner,James Dashner,2009
+9780316229296,An Absolutely Remarkable Thing,Hank Green,2018
+9780316355698,Scythe,Neal Shusterman,2016
+9780316556347,Arrival,Ted Chiang,2016
+9780345339706,The Hobbit,J.R.R. Tolkien,1937
+9780345453747,Fahrenheit 451,Ray Bradbury,1953
+9780345816023,The Handmaid’s Tale,Margaret Atwood,1985
+9780385537858,The Martian,Andy Weir,2011
+9780385754729,Cinder,Marissa Meyer,2012
+9780441013593,Tiger! Tiger!,Alfred Bester,1956
+9780441172719,Dune Messiah,Frank Herbert,1969
+9780451524941,The Murder on the Orient Express,Agatha Christie,1934
+9780547928227,The Fellowship of the Ring,J.R.R. Tolkien,1954
+9780553103540,A Clash of Kings,George R.R. Martin,1998
+9780553106633,A Game of Thrones,George R.R. Martin,1996
+9780553386790,Dune,Frank Herbert,1965
+9780765350381,The Way of Kings,Brandon Sanderson,2010
+9780765376671,Leviathan Wakes,James S.A. Corey,2011
+9780765377067,All Systems Red,Martha Wells,2017
+9780765383898,The Three-Body Problem,Liu Cixin,2006
+9781250188953,The Eye of The World,Robert Jordan,1990
+9781401248966,Watchmen,Alan Moore,1987
+9781481463348,The Name of the Wind,Patrick Rothfuss,2007
+9781488963348,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997
+9781501128035,Dark Matter,Blake Crouch,2016
+9781524763169,Skyward,Brandon Sanderson,2018
+9781982137274,Project Hail Mary,Andy Weir,2021

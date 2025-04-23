@@ -1,0 +1,5 @@
+9780000000001,Neuromancer,William Gibson,1984
+9780000000002,Snow Crash,Neal Stephenson,1992
+9780000000003,Hyperion,Dan Simmons,1989
+9780000000004,The Left Hand of Darkness,Ursula K. Le Guin,1969
+9780000000005,Ringworld,Larry Niven,1970

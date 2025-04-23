@@ -1,0 +1,9 @@
+9780765350381,The Way of Kings,Brandon Sanderson,2010
+9780385537858,The Martian,Andy Weir,2011
+9780061052617,The Lion the Witch and the Wardrobe,C.S. Lewis,1950
+9780451524941,The Murder on the Orient Express,Agatha Christie,1934
+9780441172719,Dune Messiah,Frank Herbert,1969
+9781488963348,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997
+9780553103540,A Clash of Kings,George R.R. Martin,1998
+9780385754729,Cinder,Marissa Meyer,2012
+9781401248966,Watchmen,Alan Moore,1987
